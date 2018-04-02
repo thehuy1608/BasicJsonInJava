@@ -8,6 +8,12 @@ API: Gson API 2.8.2
 
 Some simple ways to serialize and deserialize JSON File in Java using Gson API.
 
+Add Gson using Gradle:
+
+dependencies {
+    compile 'com.google.code.gson:gson:2.8.2'
+}
+
 Related resources:
 
 ** Gson on GitHub:
