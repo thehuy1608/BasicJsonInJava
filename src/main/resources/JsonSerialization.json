@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "first_name": "Huy",
+        "last_name": "Nguyễn Thế",
+        "email": "huynt1608@gmail.com",
+        "gender": "Nam",
+        "ip_address": "127.0.0.1"
+    },
+    {
+        "id": 2,
+        "first_name": "Nhựt",
+        "last_name": "Nguyễn Minh",
+        "email": "nhutnm0101@gmail.com",
+        "gender": "Nam",
+        "ip_address": "127.0.0.1"
+    },
+    {
+        "id": 2,
+        "first_name": "Bảo",
+        "last_name": "Văn Hoàng",
+        "email": "baovh0106@gmail.com",
+        "gender": "Nữ",
+        "ip_address": "127.0.0.1"
+    }
+]
